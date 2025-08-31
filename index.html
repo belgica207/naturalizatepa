@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Estudio Naturalización Panamá</title>
+    <link rel="manifest" href="./manifest.json" />
+    <meta name="theme-color" content="#0ea5e9" />
+    <link rel="apple-touch-icon" href="./icon-192.png" />
+    <link rel="stylesheet" href="./style.css" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="card" style="margin-top:12px; margin-bottom:12px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;">
+          <div>
+            <h1 style="margin:0;">Estudio Naturalización Panamá</h1>
+            <div style="opacity:.7;">Tarjetas + Quiz + Spaced Repetition • 100% offline (cuando está instalado)</div>
+          </div>
+          <button class="btn primary" id="install-tip">¿Cómo instalar?</button>
+        </div>
+      </div>
+      <div class="card app"></div>
+      <div class="footer container" style="padding:8px 0 24px;">
+        <small>Consejo: puedes agregar tus propias preguntas (botón “Agregar pregunta”) e importar/exportar tu progreso.</small>
+      </div>
+    </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const tip = document.getElementById('install-tip');
+        tip.addEventListener('click', () => {
+          alert('En iPhone: abre esta página en Safari → botón Compartir → "Agregar a pantalla de inicio". Luego funcionará sin internet.');
+        });
+      });
+    </script>
+    <script src="./app.js"></script>
+  </body>
+</html>

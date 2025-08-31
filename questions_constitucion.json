@@ -1,0 +1,1492 @@
+[
+  {
+    "q": "¿Qué es la Constitución Política (Carta Magna) de la República de Panamá?",
+    "a": "El conjunto de normas fundamentales o supremas que organizan el Estado panameño",
+    "choices": [
+      "El conjunto de costumbres del pueblo",
+      "El conjunto de normas fundamentales o supremas que organizan el Estado panameño",
+      "Un código penal especial",
+      "Un tratado internacional"
+    ]
+  },
+  {
+    "q": "¿Cuántas Constituciones Políticas ha tenido la República de Panamá según el temario?",
+    "a": "4",
+    "choices": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ]
+  },
+  {
+    "q": "¿Cuál de estas Constituciones es la vigente según el temario?",
+    "a": "1972",
+    "choices": [
+      "1941",
+      "1904",
+      "1972",
+      "1946"
+    ]
+  },
+  {
+    "q": "¿En qué años se indican reformas al texto constitucional de 1972?",
+    "a": "1978, 1983, 1993, 1994 y 2004",
+    "choices": [
+      "1978, 1983, 1993, 1994 y 2004",
+      "1983 y 1999",
+      "1999 y 2004",
+      "1975, 1980, 1990"
+    ]
+  },
+  {
+    "q": "Según la Constitución, ¿cómo se caracteriza el gobierno panameño?",
+    "a": "Unitario, republicano, democrático y representativo",
+    "choices": [
+      "Federal, republicano, democrático y representativo",
+      "Unitario, republicano, democrático y representativo",
+      "Democrático, federal y centralista",
+      "Unitario, monárquico y autoritario"
+    ]
+  },
+  {
+    "q": "¿Qué significa que Panamá sea un Estado unitario?",
+    "a": "Que todos los niveles de gobierno están subordinados al poder central y rigen las mismas leyes",
+    "choices": [
+      "Que todos los niveles de gobierno están subordinados al poder central y rigen las mismas leyes",
+      "Que existen varias naciones dentro del país",
+      "Que el poder es ejercido por una sola persona",
+      "Que cada provincia dicta sus propias leyes"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio del gobierno republicano? (Todo cargo público surge del voto)",
+    "a": "Todo cargo público surge del voto",
+    "choices": [
+      "No se publican los actos de gobierno",
+      "Todo cargo público surge del voto",
+      "Los cargos son vitalicios",
+      "El poder se concentra en un líder"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio del gobierno republicano? (El ejercicio de los cargos públicos electivos tiene duración limitada)",
+    "a": "El ejercicio de los cargos públicos electivos tiene duración limitada",
+    "choices": [
+      "No se publican los actos de gobierno",
+      "El poder se concentra en un líder",
+      "Los cargos son vitalicios",
+      "El ejercicio de los cargos públicos electivos tiene duración limitada"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio del gobierno republicano? (Los actos de gobierno deben ser dados a conocer)",
+    "a": "Los actos de gobierno deben ser dados a conocer",
+    "choices": [
+      "Los actos de gobierno deben ser dados a conocer",
+      "No se publican los actos de gobierno",
+      "El poder se concentra en un líder",
+      "Los cargos son vitalicios"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio del gobierno republicano? (El poder del Estado se fracciona en tres poderes)",
+    "a": "El poder del Estado se fracciona en tres poderes",
+    "choices": [
+      "No se publican los actos de gobierno",
+      "El poder del Estado se fracciona en tres poderes",
+      "Los cargos son vitalicios",
+      "El poder se concentra en un líder"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Derecho de igualdad ante la ley",
+    "a": "Derecho de igualdad ante la ley",
+    "choices": [
+      "Derecho de igualdad ante la ley",
+      "Libertad de tránsito",
+      "Inviolabilidad del domicilio",
+      "Derecho al debido proceso"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Libertad de pensamiento y expresión",
+    "a": "Libertad de pensamiento y expresión",
+    "choices": [
+      "Derecho al debido proceso",
+      "Libertad de pensamiento y expresión",
+      "Libertad de reunión y asociación",
+      "Libertad de conciencia, culto y enseñanza"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Libertad de reunión y asociación",
+    "a": "Libertad de reunión y asociación",
+    "choices": [
+      "Inviolabilidad del domicilio",
+      "Libertad de pensamiento y expresión",
+      "Libertad individual",
+      "Libertad de reunión y asociación"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Libertad de conciencia, culto y enseñanza",
+    "a": "Libertad de conciencia, culto y enseñanza",
+    "choices": [
+      "Libertad individual",
+      "Libertad de conciencia, culto y enseñanza",
+      "Libertad de tránsito",
+      "Libertad de pensamiento y expresión"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Libertad de tránsito",
+    "a": "Libertad de tránsito",
+    "choices": [
+      "Libertad de tránsito",
+      "Libertad de conciencia, culto y enseñanza",
+      "Inviolabilidad del domicilio",
+      "Derecho al debido proceso"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Derecho a la propiedad privada",
+    "a": "Derecho a la propiedad privada",
+    "choices": [
+      "Derecho de petición",
+      "Inviolabilidad de la correspondencia",
+      "Libertad individual",
+      "Derecho a la propiedad privada"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Inviolabilidad del domicilio",
+    "a": "Inviolabilidad del domicilio",
+    "choices": [
+      "Libertad individual",
+      "Libertad de conciencia, culto y enseñanza",
+      "Derecho de petición",
+      "Inviolabilidad del domicilio"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Inviolabilidad de la correspondencia",
+    "a": "Inviolabilidad de la correspondencia",
+    "choices": [
+      "Libertad de conciencia, culto y enseñanza",
+      "Libertad de reunión y asociación",
+      "Inviolabilidad de la correspondencia",
+      "Derecho al debido proceso"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Libertad individual",
+    "a": "Libertad individual",
+    "choices": [
+      "Derecho de igualdad ante la ley",
+      "Libertad individual",
+      "Libertad de reunión y asociación",
+      "Libertad de tránsito"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Derecho de petición",
+    "a": "Derecho de petición",
+    "choices": [
+      "Derecho de petición",
+      "Libertad de pensamiento y expresión",
+      "Inviolabilidad de la correspondencia",
+      "Derecho al debido proceso"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un derecho garantizado por la Constitución?: Derecho al debido proceso",
+    "a": "Derecho al debido proceso",
+    "choices": [
+      "Libertad de conciencia, culto y enseñanza",
+      "Derecho al debido proceso",
+      "Derecho de petición",
+      "Derecho a la propiedad privada"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: La Familia",
+    "a": "La Familia",
+    "choices": [
+      "La Familia",
+      "Régimen Ecológico",
+      "Salud, Asistencia y Seguridad Social",
+      "El Trabajo"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: El Trabajo",
+    "a": "El Trabajo",
+    "choices": [
+      "La Familia",
+      "Salud, Asistencia y Seguridad Social",
+      "Educación",
+      "El Trabajo"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: Cultura Nacional",
+    "a": "Cultura Nacional",
+    "choices": [
+      "El Trabajo",
+      "Cultura Nacional",
+      "Educación",
+      "La Familia"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: Educación",
+    "a": "Educación",
+    "choices": [
+      "Cultura Nacional",
+      "Régimen Agrario",
+      "La Familia",
+      "Educación"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: Salud, Asistencia y Seguridad Social",
+    "a": "Salud, Asistencia y Seguridad Social",
+    "choices": [
+      "Educación",
+      "Régimen Ecológico",
+      "Cultura Nacional",
+      "Salud, Asistencia y Seguridad Social"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: Régimen Ecológico",
+    "a": "Régimen Ecológico",
+    "choices": [
+      "Régimen Ecológico",
+      "Educación",
+      "Régimen Agrario",
+      "Salud, Asistencia y Seguridad Social"
+    ]
+  },
+  {
+    "q": "¿Cuál de estos es un derecho social, económico o cultural importante según la Constitución?: Régimen Agrario",
+    "a": "Régimen Agrario",
+    "choices": [
+      "Régimen Ecológico",
+      "Régimen Agrario",
+      "Educación",
+      "La Familia"
+    ]
+  },
+  {
+    "q": "¿Qué es la nacionalidad según el temario?",
+    "a": "Un vínculo político que une a una persona con el Estado al que pertenece",
+    "choices": [
+      "Un pasaporte",
+      "Un permiso de trabajo",
+      "Un vínculo político que une a una persona con el Estado al que pertenece",
+      "Un documento de viaje"
+    ]
+  },
+  {
+    "q": "¿Cómo se adquiere la nacionalidad panameña?: Por el nacimiento",
+    "a": "Por el nacimiento",
+    "choices": [
+      "Por el nacimiento",
+      "Por la naturalización",
+      "Opción 1",
+      "Por disposición constitucional"
+    ]
+  },
+  {
+    "q": "¿Cómo se adquiere la nacionalidad panameña?: Por la naturalización",
+    "a": "Por la naturalización",
+    "choices": [
+      "Por disposición constitucional",
+      "Por el nacimiento",
+      "Opción 1",
+      "Por la naturalización"
+    ]
+  },
+  {
+    "q": "¿Cómo se adquiere la nacionalidad panameña?: Por disposición constitucional",
+    "a": "Por disposición constitucional",
+    "choices": [
+      "Por la naturalización",
+      "Opción 1",
+      "Por disposición constitucional",
+      "Por el nacimiento"
+    ]
+  },
+  {
+    "q": "¿Quiénes son nacionales panameños por nacimiento?: Los nacidos dentro del territorio nacional",
+    "a": "Los nacidos dentro del territorio nacional",
+    "choices": [
+      "Hijos de padre o madre panameños por naturalización que establezcan domicilio y manifiesten voluntad",
+      "Opción 1",
+      "Los nacidos dentro del territorio nacional",
+      "Hijos de padre o madre panameños por nacimiento nacidos fuera que establezcan domicilio en Panamá"
+    ]
+  },
+  {
+    "q": "¿Quiénes son nacionales panameños por nacimiento?: Hijos de padre o madre panameños por nacimiento nacidos fuera que establezcan domicilio en Panamá",
+    "a": "Hijos de padre o madre panameños por nacimiento nacidos fuera que establezcan domicilio en Panamá",
+    "choices": [
+      "Hijos de padre o madre panameños por nacimiento nacidos fuera que establezcan domicilio en Panamá",
+      "Los nacidos dentro del territorio nacional",
+      "Opción 1",
+      "Hijos de padre o madre panameños por naturalización que establezcan domicilio y manifiesten voluntad"
+    ]
+  },
+  {
+    "q": "¿Quiénes son nacionales panameños por nacimiento?: Hijos de padre o madre panameños por naturalización que establezcan domicilio y manifiesten voluntad",
+    "a": "Hijos de padre o madre panameños por naturalización que establezcan domicilio y manifiesten voluntad",
+    "choices": [
+      "Opción 1",
+      "Hijos de padre o madre panameños por naturalización que establezcan domicilio y manifiesten voluntad",
+      "Los nacidos dentro del territorio nacional",
+      "Hijos de padre o madre panameños por nacimiento nacidos fuera que establezcan domicilio en Panamá"
+    ]
+  },
+  {
+    "q": "¿Quién puede solicitar la nacionalidad panameña por naturalización?: Extranjeros con cinco años consecutivos de residencia",
+    "a": "Extranjeros con cinco años consecutivos de residencia",
+    "choices": [
+      "Extranjeros con tres años si tienen hijos o cónyuge panameño",
+      "Nacionales de España o Latinoamérica con requisitos recíprocos",
+      "Extranjeros con cinco años consecutivos de residencia",
+      "Opción 1"
+    ]
+  },
+  {
+    "q": "¿Quién puede solicitar la nacionalidad panameña por naturalización?: Extranjeros con tres años si tienen hijos o cónyuge panameño",
+    "a": "Extranjeros con tres años si tienen hijos o cónyuge panameño",
+    "choices": [
+      "Extranjeros con cinco años consecutivos de residencia",
+      "Opción 1",
+      "Extranjeros con tres años si tienen hijos o cónyuge panameño",
+      "Nacionales de España o Latinoamérica con requisitos recíprocos"
+    ]
+  },
+  {
+    "q": "¿Quién puede solicitar la nacionalidad panameña por naturalización?: Nacionales de España o Latinoamérica con requisitos recíprocos",
+    "a": "Nacionales de España o Latinoamérica con requisitos recíprocos",
+    "choices": [
+      "Nacionales de España o Latinoamérica con requisitos recíprocos",
+      "Extranjeros con tres años si tienen hijos o cónyuge panameño",
+      "Extranjeros con cinco años consecutivos de residencia",
+      "Opción 1"
+    ]
+  },
+  {
+    "q": "Según el temario, ¿qué ocurre con hijos adoptados por nacionales panameños antes de los 7 años?",
+    "a": "Son panameños por disposición constitucional y no necesitan carta de naturaleza",
+    "choices": [
+      "Deben solicitar naturalización",
+      "Son extranjeros",
+      "Deben esperar hasta los 18 años",
+      "Son panameños por disposición constitucional y no necesitan carta de naturaleza"
+    ]
+  },
+  {
+    "q": "¿Qué es el sufragio?",
+    "a": "El derecho y deber de intervenir en la organización y marcha del Estado mediante elecciones y consultas populares",
+    "choices": [
+      "El derecho y deber de intervenir en la organización y marcha del Estado mediante elecciones y consultas populares",
+      "El derecho a portar armas",
+      "Un impuesto municipal",
+      "Un certificado de residencia"
+    ]
+  },
+  {
+    "q": "Para ejercer el derecho al sufragio se necesita: Aparecer en el Padrón Electoral",
+    "a": "Aparecer en el Padrón Electoral",
+    "choices": [
+      "Aparecer en el Padrón Electoral",
+      "Gozar de los derechos civiles y políticos",
+      "Opción 1",
+      "Presentar la cédula de identidad personal vigente"
+    ]
+  },
+  {
+    "q": "Para ejercer el derecho al sufragio se necesita: Presentar la cédula de identidad personal vigente",
+    "a": "Presentar la cédula de identidad personal vigente",
+    "choices": [
+      "Presentar la cédula de identidad personal vigente",
+      "Opción 1",
+      "Gozar de los derechos civiles y políticos",
+      "Aparecer en el Padrón Electoral"
+    ]
+  },
+  {
+    "q": "Para ejercer el derecho al sufragio se necesita: Gozar de los derechos civiles y políticos",
+    "a": "Gozar de los derechos civiles y políticos",
+    "choices": [
+      "Presentar la cédula de identidad personal vigente",
+      "Opción 1",
+      "Aparecer en el Padrón Electoral",
+      "Gozar de los derechos civiles y políticos"
+    ]
+  },
+  {
+    "q": "¿Cuál es la duración del periodo de los cargos públicos elegidos por votación popular en Panamá?",
+    "a": "5 años",
+    "choices": [
+      "5 años",
+      "3 años",
+      "4 años",
+      "6 años"
+    ]
+  },
+  {
+    "q": "¿Cuándo inician generalmente funciones los cargos electos por voto popular?",
+    "a": "1 de julio",
+    "choices": [
+      "1 de julio",
+      "3 de noviembre",
+      "1 de enero",
+      "15 de agosto"
+    ]
+  },
+  {
+    "q": "¿Qué cargos se eligen a nivel nacional por votación directa?",
+    "a": "Presidente y Vicepresidente, y Diputados al PARLACEN",
+    "choices": [
+      "Presidente y Vicepresidente, y Diputados al PARLACEN",
+      "Presidente y Gobernadores",
+      "Sólo Presidente",
+      "Solo alcaldes"
+    ]
+  },
+  {
+    "q": "¿Cuántos diputados conforman actualmente la Asamblea Nacional según el temario?",
+    "a": "71",
+    "choices": [
+      "71",
+      "60",
+      "100",
+      "50"
+    ]
+  },
+  {
+    "q": "¿Cuáles son los tres órganos del Estado panameño?",
+    "a": "Ejecutivo, Legislativo y Judicial",
+    "choices": [
+      "Ejecutivo, Legislativo y Judicial",
+      "Judicial",
+      "Ejecutivo",
+      "Legislativo"
+    ]
+  },
+  {
+    "q": "¿De qué está compuesto el Órgano Ejecutivo según el texto?",
+    "a": "Presidente de la República y Ministros de Estado",
+    "choices": [
+      "Vicepresidente",
+      "Presidente de la República y Ministros de Estado",
+      "Ministros de Estado",
+      "Presidente de la República"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Presidente o Vicepresidente? Ser panameño por nacimiento",
+    "a": "Ser panameño por nacimiento",
+    "choices": [
+      "No haber sido condenado por delito doloso con pena de 5 años o más",
+      "Tener 35 años cumplidos",
+      "Ser panameño por nacimiento",
+      "Opción 1"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Presidente o Vicepresidente? Tener 35 años cumplidos",
+    "a": "Tener 35 años cumplidos",
+    "choices": [
+      "Ser panameño por nacimiento",
+      "Opción 1",
+      "No haber sido condenado por delito doloso con pena de 5 años o más",
+      "Tener 35 años cumplidos"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Presidente o Vicepresidente? No haber sido condenado por delito doloso con pena de 5 años o más",
+    "a": "No haber sido condenado por delito doloso con pena de 5 años o más",
+    "choices": [
+      "Ser panameño por nacimiento",
+      "Opción 1",
+      "Tener 35 años cumplidos",
+      "No haber sido condenado por delito doloso con pena de 5 años o más"
+    ]
+  },
+  {
+    "q": "¿Cuántos ministerios forman la Administración Pública según el temario?",
+    "a": "14",
+    "choices": [
+      "10",
+      "16",
+      "12",
+      "14"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es el ministerio encargado de asuntos del Canal?",
+    "a": "Ministerio para Asuntos del Canal",
+    "choices": [
+      "Ministerio de la Presidencia",
+      "Ministerio para Asuntos del Canal",
+      "Ministerio de Seguridad Pública",
+      "Ministerio de Comercio e Industrias"
+    ]
+  },
+  {
+    "q": "¿Qué órgano integra el Consejo de Gabinete?",
+    "a": "El Presidente, el Vicepresidente y los Ministros de Estado",
+    "choices": [
+      "Ministros de Estado",
+      "Presidente de la República",
+      "El Presidente, el Vicepresidente y los Ministros de Estado",
+      "Vicepresidente"
+    ]
+  },
+  {
+    "q": "¿Cuál es la principal función de la Asamblea Nacional?",
+    "a": "Expedir las leyes necesarias para el cumplimiento de los fines del Estado",
+    "choices": [
+      "Expedir las leyes necesarias para el cumplimiento de los fines del Estado",
+      "Organizar elecciones",
+      "Administrar la Corte Suprema",
+      "Dirigir el Ejército"
+    ]
+  },
+  {
+    "q": "¿Qué potestad tiene la Asamblea Nacional respecto a nombramientos de magistrados?",
+    "a": "Aprobar o improbar los nombramientos de magistrados de la Corte Suprema",
+    "choices": [
+      "Nombrar ministros",
+      "Elegir alcaldes",
+      "Aprobar o improbar los nombramientos de magistrados de la Corte Suprema",
+      "Nombrar al Presidente"
+    ]
+  },
+  {
+    "q": "¿Cuál es la máxima corporación del Órgano Judicial?",
+    "a": "La Corte Suprema de Justicia",
+    "choices": [
+      "La Procuraduría General",
+      "La Corte Suprema de Justicia",
+      "La Asamblea Nacional",
+      "El Tribunal Electoral"
+    ]
+  },
+  {
+    "q": "¿Cuántos magistrados componen la Corte Suprema de Justicia según el texto?",
+    "a": "9",
+    "choices": [
+      "11",
+      "7",
+      "9",
+      "5"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Magistrado de la Corte Suprema? Ser panameño por nacimiento",
+    "a": "Ser panameño por nacimiento",
+    "choices": [
+      "Haber ejercido 10 años la profesión o cargos afines",
+      "Ser panameño por nacimiento",
+      "Hallarse en pleno goce de los derechos civiles y políticos",
+      "Ser graduado en Derecho con título inscrito"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Magistrado de la Corte Suprema? Haber cumplido 35 años",
+    "a": "Haber cumplido 35 años",
+    "choices": [
+      "Ser graduado en Derecho con título inscrito",
+      "Haber cumplido 35 años",
+      "Ser panameño por nacimiento",
+      "Haber ejercido 10 años la profesión o cargos afines"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Magistrado de la Corte Suprema? Hallarse en pleno goce de los derechos civiles y políticos",
+    "a": "Hallarse en pleno goce de los derechos civiles y políticos",
+    "choices": [
+      "Haber cumplido 35 años",
+      "Hallarse en pleno goce de los derechos civiles y políticos",
+      "Ser panameño por nacimiento",
+      "Haber ejercido 10 años la profesión o cargos afines"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Magistrado de la Corte Suprema? Ser graduado en Derecho con título inscrito",
+    "a": "Ser graduado en Derecho con título inscrito",
+    "choices": [
+      "Hallarse en pleno goce de los derechos civiles y políticos",
+      "Ser panameño por nacimiento",
+      "Haber cumplido 35 años",
+      "Ser graduado en Derecho con título inscrito"
+    ]
+  },
+  {
+    "q": "¿Cuál es un requisito para ser Magistrado de la Corte Suprema? Haber ejercido 10 años la profesión o cargos afines",
+    "a": "Haber ejercido 10 años la profesión o cargos afines",
+    "choices": [
+      "Hallarse en pleno goce de los derechos civiles y políticos",
+      "Haber ejercido 10 años la profesión o cargos afines",
+      "Ser graduado en Derecho con título inscrito",
+      "Ser panameño por nacimiento"
+    ]
+  },
+  {
+    "q": "¿Qué organismos componen el Ministerio Público según el temario?",
+    "a": "La Procuraduría General de la Nación y la Procuraduría de la Administración",
+    "choices": [
+      "Procuraduría General de la Nación",
+      "Procuraduría de la Administración",
+      "Opción 1",
+      "La Procuraduría General de la Nación y la Procuraduría de la Administración"
+    ]
+  },
+  {
+    "q": "¿Cuál es una función de la Procuraduría de la Administración?",
+    "a": "Representar los intereses nacionales y municipales en demandas ante la Corte Suprema de Justicia",
+    "choices": [
+      "Representar los intereses nacionales y municipales en demandas ante la Corte Suprema de Justicia",
+      "Controlar la banca privada",
+      "Administrar las elecciones",
+      "Investigar delitos electorales"
+    ]
+  },
+  {
+    "q": "¿Quién es el jefe de la administración municipal?",
+    "a": "El Alcalde",
+    "choices": [
+      "El Alcalde",
+      "El Diputado",
+      "El Gobernador",
+      "El Presidente"
+    ]
+  },
+  {
+    "q": "¿Quién designa al Gobernador de una provincia según el texto?",
+    "a": "El Presidente de la República (órgano ejecutivo)",
+    "choices": [
+      "El Tribunal Electoral",
+      "El Presidente de la República (órgano ejecutivo)",
+      "El Alcalde",
+      "La Asamblea Nacional"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes instituciones está a cargo del desarrollo agropecuario?",
+    "a": "Ministerio de Desarrollo Agropecuario",
+    "choices": [
+      "Banco de Desarrollo Agropecuario",
+      "Ministerio de Salud",
+      "Caja del Seguro Social",
+      "Ministerio de Desarrollo Agropecuario"
+    ]
+  },
+  {
+    "q": "¿Cuál de estas instituciones atiende obligaciones de seguridad social?",
+    "a": "Caja del Seguro Social",
+    "choices": [
+      "Tribunal Electoral",
+      "Ministerio de Gobierno",
+      "Caja del Seguro Social",
+      "Ministerio de Educación"
+    ]
+  },
+  {
+    "q": "¿En qué año se estableció el Tribunal Electoral según el texto?",
+    "a": "1956",
+    "choices": [
+      "1999",
+      "1956",
+      "1946",
+      "1972"
+    ]
+  },
+  {
+    "q": "¿Cuántos magistrados integran el Tribunal Electoral?",
+    "a": "3",
+    "choices": [
+      "3",
+      "9",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "q": "¿Cuál es una función del Tribunal Electoral?",
+    "a": "Interpretar y aplicar la ley electoral, dirigir y fiscalizar la inscripción de hechos vitales",
+    "choices": [
+      "Interpretar y aplicar la ley electoral, dirigir y fiscalizar la inscripción de hechos vitales",
+      "Administrar la Justicia ordinaria",
+      "Controlar el Ministerio de Economía",
+      "Nombrar magistrados de la Corte Suprema"
+    ]
+  },
+  {
+    "q": "¿Cuál es una dirección sustantiva del Tribunal Electoral?",
+    "a": "Dirección Nacional de Registro Civil",
+    "choices": [
+      "Dirección Nacional de Organización Electoral",
+      "Dirección Nacional de Cedulación",
+      "Dirección Nacional de Registro Civil",
+      "Opción 1"
+    ]
+  },
+  {
+    "q": "¿Cuál es una atribución de la Fiscalía General Electoral?",
+    "a": "Perseguir los delitos y faltas electorales ante el Tribunal Electoral",
+    "choices": [
+      "Representar intereses en materia electoral",
+      "Opción 1",
+      "Perseguir delitos y faltas electorales",
+      "Perseguir los delitos y faltas electorales ante el Tribunal Electoral"
+    ]
+  },
+  {
+    "q": "¿Qué requisito se exige para optar al cargo de Diputado a la Asamblea Nacional y al PARLACEN si usted es naturalizado?",
+    "a": "15 años de residencia luego de naturalizarse",
+    "choices": [
+      "Opción 1",
+      "10 años desde la naturalización",
+      "10 años desde la naturalización",
+      "15 años de residencia luego de naturalizarse"
+    ]
+  },
+  {
+    "q": "¿Qué requisito se exige para optar al cargo de Representante de Corregimiento si usted es naturalizado?",
+    "a": "10 años desde la naturalización",
+    "choices": [
+      "15 años de residencia luego de naturalizarse",
+      "Opción 1",
+      "10 años desde la naturalización",
+      "Opción 2"
+    ]
+  },
+  {
+    "q": "¿Qué requisito se exige para optar al cargo de Concejal si usted es naturalizado?",
+    "a": "10 años desde la naturalización",
+    "choices": [
+      "10 años desde la naturalización",
+      "Opción 2",
+      "15 años de residencia luego de naturalizarse",
+      "Opción 1"
+    ]
+  },
+  {
+    "q": "Según el temario, ¿con qué limita Panamá al norte?",
+    "a": "Norte: Mar Caribe",
+    "choices": [
+      "Este: República de Colombia",
+      "Norte: Mar Caribe",
+      "Sur: Océano Pacífico",
+      "Oeste: República de Costa Rica"
+    ]
+  },
+  {
+    "q": "Según el temario, ¿con qué limita Panamá al sur?",
+    "a": "Sur: Océano Pacífico",
+    "choices": [
+      "Sur: Océano Pacífico",
+      "Norte: Mar Caribe",
+      "Oeste: República de Costa Rica",
+      "Este: República de Colombia"
+    ]
+  },
+  {
+    "q": "Según el temario, ¿con qué limita Panamá al oeste?",
+    "a": "Oeste: República de Costa Rica",
+    "choices": [
+      "Sur: Océano Pacífico",
+      "Norte: Mar Caribe",
+      "Este: República de Colombia",
+      "Oeste: República de Costa Rica"
+    ]
+  },
+  {
+    "q": "Según el temario, ¿con qué limita Panamá al este?",
+    "a": "Este: República de Colombia",
+    "choices": [
+      "Oeste: República de Costa Rica",
+      "Este: República de Colombia",
+      "Sur: Océano Pacífico",
+      "Norte: Mar Caribe"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Bocas del Toro?",
+    "a": "Bocas del Toro",
+    "choices": [
+      "David",
+      "Bocas del Toro",
+      "Las Tablas",
+      "Panamá"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Coclé?",
+    "a": "Penonomé",
+    "choices": [
+      "Penonomé",
+      "David",
+      "Panamá",
+      "Las Tablas"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Colón?",
+    "a": "Colón",
+    "choices": [
+      "Colón",
+      "Santiago",
+      "Las Tablas",
+      "Bocas del Toro"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Chiriquí?",
+    "a": "David",
+    "choices": [
+      "David",
+      "Las Tablas",
+      "Colón",
+      "Panamá"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Darién?",
+    "a": "La Palma",
+    "choices": [
+      "Colón",
+      "Santiago",
+      "La Palma",
+      "Panamá"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Herrera?",
+    "a": "Chitré",
+    "choices": [
+      "La Palma",
+      "Bocas del Toro",
+      "Chitré",
+      "Panamá"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Los Santos?",
+    "a": "Las Tablas",
+    "choices": [
+      "Penonomé",
+      "Panamá",
+      "Las Tablas",
+      "La Palma"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Panamá?",
+    "a": "Panamá",
+    "choices": [
+      "Colón",
+      "Las Tablas",
+      "Penonomé",
+      "Panamá"
+    ]
+  },
+  {
+    "q": "¿Cuál es la cabecera (capital) de la provincia de Veraguas?",
+    "a": "Santiago",
+    "choices": [
+      "Penonomé",
+      "La Palma",
+      "Bocas del Toro",
+      "Santiago"
+    ]
+  },
+  {
+    "q": "¿Cuántas provincias se listan en el temario?",
+    "a": "9",
+    "choices": [
+      "8",
+      "11",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes es una comarca indígena mencionada en el temario?: Guna Yala",
+    "a": "Guna Yala",
+    "choices": [
+      "Emberá Wounaan",
+      "Wargandí",
+      "Ngäbe Buglé",
+      "Guna Yala"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes es una comarca indígena mencionada en el temario?: Emberá Wounaan",
+    "a": "Emberá Wounaan",
+    "choices": [
+      "Guna Yala",
+      "Emberá Wounaan",
+      "Kuna de Madugandí",
+      "Wargandí"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes es una comarca indígena mencionada en el temario?: Ngäbe Buglé",
+    "a": "Ngäbe Buglé",
+    "choices": [
+      "Wargandí",
+      "Kuna de Madugandí",
+      "Ngäbe Buglé",
+      "Guna Yala"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes es una comarca indígena mencionada en el temario?: Kuna de Madugandí",
+    "a": "Kuna de Madugandí",
+    "choices": [
+      "Wargandí",
+      "Guna Yala",
+      "Kuna de Madugandí",
+      "Emberá Wounaan"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes es una comarca indígena mencionada en el temario?: Wargandí",
+    "a": "Wargandí",
+    "choices": [
+      "Wargandí",
+      "Emberá Wounaan",
+      "Guna Yala",
+      "Ngäbe Buglé"
+    ]
+  },
+  {
+    "q": "¿Qué forma tiene el Istmo de Panamá según el temario?",
+    "a": "Forma de 'S'",
+    "choices": [
+      "Forma de 'S'",
+      "Forma circular",
+      "Forma triangular",
+      "Forma rectangular"
+    ]
+  },
+  {
+    "q": "¿Cuál es la altura del Volcán Barú según el temario?",
+    "a": "3,475 metros",
+    "choices": [
+      "2,000 metros",
+      "4,500 metros",
+      "1,200 metros",
+      "3,475 metros"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los puertos principales en la provincia de Colón?",
+    "a": "Colón Container Terminal",
+    "choices": [
+      "Pedregal",
+      "Colón Container Terminal",
+      "Colón Container Terminal, Puerto Cristóbal",
+      "Puerto de Balboa"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los puertos principales en la provincia de Panamá?",
+    "a": "Puerto de Balboa",
+    "choices": [
+      "Almirantes",
+      "Puerto de Balboa",
+      "Aguadulce",
+      "Colón Container Terminal, Puerto Cristóbal"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los puertos principales en la provincia de Chiriquí?",
+    "a": "Pedregal",
+    "choices": [
+      "Aguadulce",
+      "Pedregal",
+      "Puerto de Balboa",
+      "Colón Container Terminal, Puerto Cristóbal"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los puertos principales en la provincia de Bocas del Toro?",
+    "a": "Almirantes",
+    "choices": [
+      "Colón Container Terminal, Puerto Cristóbal",
+      "Almirantes",
+      "Aguadulce",
+      "Pedregal"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los puertos principales en la provincia de Coclé?",
+    "a": "Aguadulce",
+    "choices": [
+      "Almirantes",
+      "Puerto de Balboa",
+      "Pedregal",
+      "Aguadulce"
+    ]
+  },
+  {
+    "q": "¿Cuál es uno de los cultivos principales mencionados en el temario?",
+    "a": "Arroz",
+    "choices": [
+      "Arroz",
+      "Maíz",
+      "Tabaco",
+      "Tomates"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Descubrimiento del Istmo?",
+    "a": "1501",
+    "choices": [
+      "12 de octubre de 1962",
+      "31 de diciembre de 1999",
+      "1501",
+      "15 de agosto de 1914"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Descubrimiento del Istmo?",
+    "a": "Rodrigo Galván de Bastidas",
+    "choices": [
+      "Rodrigo Galván de Bastidas",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Fundación de la ciudad de Panamá?",
+    "a": "15 de agosto de 1519",
+    "choices": [
+      "28 de noviembre de 1821",
+      "15 de agosto de 1519",
+      "3 de noviembre de 1903",
+      "18 de noviembre de 1903"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Quema de la ciudad de Panamá?",
+    "a": "18 de enero de 1671",
+    "choices": [
+      "31 de diciembre de 1999",
+      "15 de agosto de 1519",
+      "18 de enero de 1671",
+      "3 de noviembre de 1903"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Quema de la ciudad de Panamá?",
+    "a": "Sir Henry Morgan",
+    "choices": [
+      "Vasco Núñez de Balboa? (texto)",
+      "-",
+      "-",
+      "Sir Henry Morgan"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Independencia de España?",
+    "a": "28 de noviembre de 1821",
+    "choices": [
+      "20 de diciembre de 1989",
+      "3 de noviembre de 1903",
+      "28 de noviembre de 1821",
+      "12 de octubre de 1962"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Independencia de España?",
+    "a": "-",
+    "choices": [
+      "-",
+      "Rodrigo Galván de Bastidas",
+      "Philippe Bunau-Varilla",
+      "Vasco Núñez de Balboa? (texto)"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Separación de Colombia?",
+    "a": "3 de noviembre de 1903",
+    "choices": [
+      "1501",
+      "3 de noviembre de 1903",
+      "18 de noviembre de 1903",
+      "18 de enero de 1671"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Separación de Colombia?",
+    "a": "-",
+    "choices": [
+      "-",
+      "Rodrigo Galván de Bastidas",
+      "Sir Henry Morgan",
+      "Philippe Bunau-Varilla"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Firma Tratado Hay-Bunau Varilla?",
+    "a": "18 de noviembre de 1903",
+    "choices": [
+      "31 de diciembre de 1999",
+      "3 de noviembre de 1903",
+      "15 de agosto de 1914",
+      "18 de noviembre de 1903"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Firma Tratado Hay-Bunau Varilla?",
+    "a": "Philippe Bunau-Varilla",
+    "choices": [
+      "Philippe Bunau-Varilla",
+      "Rodrigo Galván de Bastidas",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Inauguración del Canal?",
+    "a": "15 de agosto de 1914",
+    "choices": [
+      "15 de agosto de 1914",
+      "3 de noviembre de 1903",
+      "7 de septiembre de 1977",
+      "18 de noviembre de 1903"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Inauguración del Canal?",
+    "a": "-",
+    "choices": [
+      "Philippe Bunau-Varilla",
+      "Vasco Núñez de Balboa? (texto)",
+      "-",
+      "Sir Henry Morgan"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Día de los Mártires?",
+    "a": "9 de enero de 1964",
+    "choices": [
+      "18 de noviembre de 1903",
+      "9 de enero de 1964",
+      "31 de diciembre de 1999",
+      "12 de octubre de 1962"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Día de los Mártires?",
+    "a": "-",
+    "choices": [
+      "Vasco Núñez de Balboa? (texto)",
+      "Rodrigo Galván de Bastidas",
+      "Philippe Bunau-Varilla",
+      "-"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Tratado Torrijos-Carter?",
+    "a": "7 de septiembre de 1977",
+    "choices": [
+      "28 de noviembre de 1821",
+      "7 de septiembre de 1977",
+      "12 de octubre de 1962",
+      "20 de diciembre de 1989"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Tratado Torrijos-Carter?",
+    "a": "-",
+    "choices": [
+      "Rodrigo Galván de Bastidas",
+      "Sir Henry Morgan",
+      "Vasco Núñez de Balboa? (texto)",
+      "-"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Invasión EEUU?",
+    "a": "20 de diciembre de 1989",
+    "choices": [
+      "20 de diciembre de 1989",
+      "15 de agosto de 1519",
+      "7 de septiembre de 1977",
+      "18 de noviembre de 1903"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Invasión EEUU?",
+    "a": "-",
+    "choices": [
+      "Philippe Bunau-Varilla",
+      "-",
+      "Sir Henry Morgan",
+      "Vasco Núñez de Balboa? (texto)"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Reversión Canal?",
+    "a": "31 de diciembre de 1999",
+    "choices": [
+      "9 de enero de 1964",
+      "7 de septiembre de 1977",
+      "31 de diciembre de 1999",
+      "28 de noviembre de 1821"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Reversión Canal?",
+    "a": "-",
+    "choices": [
+      "Rodrigo Galván de Bastidas",
+      "Philippe Bunau-Varilla",
+      "-",
+      "Vasco Núñez de Balboa? (texto)"
+    ]
+  },
+  {
+    "q": "¿En qué fecha se produjo: Puente de las Américas Inauguración?",
+    "a": "12 de octubre de 1962",
+    "choices": [
+      "9 de enero de 1964",
+      "15 de agosto de 1519",
+      "31 de diciembre de 1999",
+      "12 de octubre de 1962"
+    ]
+  },
+  {
+    "q": "¿Quién se relaciona con: Puente de las Américas Inauguración?",
+    "a": "-",
+    "choices": [
+      "Vasco Núñez de Balboa? (texto)",
+      "-",
+      "Rodrigo Galván de Bastidas",
+      "Philippe Bunau-Varilla"
+    ]
+  },
+  {
+    "q": "¿Quién fue Manuel Amador Guerrero según el temario?",
+    "a": "Fundador de la República y primer Presidente de Panamá (20 de febrero de 1904)",
+    "choices": [
+      "Fundador de la República y primer Presidente de Panamá (20 de febrero de 1904)",
+      "Explorador",
+      "Poeta",
+      "Exlíder militar"
+    ]
+  },
+  {
+    "q": "¿Quién fue Philippe Bunau-Varilla en relación con Panamá?",
+    "a": "Enviado para negociar el Tratado Hay-Bunau Varilla (18 de noviembre de 1903)",
+    "choices": [
+      "Conquistador español",
+      "Ministro de Cultura",
+      "Presidente de Panamá",
+      "Enviado para negociar el Tratado Hay-Bunau Varilla (18 de noviembre de 1903)"
+    ]
+  },
+  {
+    "q": "¿Quién firmó los Tratados Torrijos-Carter en representación de Panamá?",
+    "a": "Omar Torrijos Herrera",
+    "choices": [
+      "Omar Torrijos Herrera",
+      "José Agustín Arango",
+      "Arnulfo Arias",
+      "Manuel Amador Guerrero"
+    ]
+  },
+  {
+    "q": "¿Quién fue el líder castrense que gobernó de facto y fue depuesto tras la invasión de 1989?",
+    "a": "Manuel Antonio Noriega",
+    "choices": [
+      "Omar Torrijos",
+      "Manuel Arango",
+      "Ricardo J. Alfaro",
+      "Manuel Antonio Noriega"
+    ]
+  },
+  {
+    "q": "¿Quién asumió la presidencia tras la invasión de 1989?",
+    "a": "Guillermo Endara Galimany",
+    "choices": [
+      "Omar Torrijos",
+      "Guillermo Endara Galimany",
+      "Manuel Antonio Noriega",
+      "José A. Remón"
+    ]
+  },
+  {
+    "q": "¿Cuál fue la fecha de la Invasión de Estados Unidos a Panamá?",
+    "a": "20 de diciembre de 1989",
+    "choices": [
+      "20 de diciembre de 1989",
+      "15 de agosto de 1519",
+      "7 de septiembre de 1977",
+      "31 de diciembre de 1999"
+    ]
+  },
+  {
+    "q": "¿Quién diseñó la bandera panameña según el temario?",
+    "a": "Manuel E. Amador",
+    "choices": [
+      "Nicanor Villalaz",
+      "Santos Jorge",
+      "Manuel E. Amador",
+      "Jerónimo de la Ossa"
+    ]
+  },
+  {
+    "q": "¿Quién escribió la letra inspiradora del Himno Nacional?",
+    "a": "Jerónimo de la Ossa",
+    "choices": [
+      "Ricardo Miró",
+      "Santos Jorge",
+      "Amelia Denis de Icaza",
+      "Jerónimo de la Ossa"
+    ]
+  },
+  {
+    "q": "¿Cuántas estrofas tiene el Himno Nacional de Panamá?",
+    "a": "4",
+    "choices": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "q": "¿Quién escribió el poema 'Patria'?",
+    "a": "Ricardo Miró",
+    "choices": [
+      "Poema Patria",
+      "Amelia Denis de Icaza",
+      "Ricardo Miró",
+      "Poema al Cerro Ancón"
+    ]
+  },
+  {
+    "q": "¿Quién es la autora del 'Poema al Cerro Ancón'?",
+    "a": "Amelia Denis de Icaza",
+    "choices": [
+      "Poema al Cerro Ancón",
+      "Ricardo Miró",
+      "Poema Patria",
+      "Amelia Denis de Icaza"
+    ]
+  },
+  {
+    "q": "¿Quién fue la primera mujer Presidenta de la República de Panamá?",
+    "a": "Mireya Moscoso Rodríguez",
+    "choices": [
+      "Partido Panameñista",
+      "Mireya Moscoso Rodríguez",
+      "Molirena (Movimiento Liberal Republicano Nacionalista)",
+      "Partido Revolucionario Democrático (PRD)"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un partido político mencionado en el temario?",
+    "a": "Partido Revolucionario Democrático (PRD)",
+    "choices": [
+      "Partido Popular",
+      "Partido Panameñista",
+      "Molirena (Movimiento Liberal Republicano Nacionalista)",
+      "Partido Revolucionario Democrático (PRD)"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes es un diario de circulación nacional mencionado?",
+    "a": "La Prensa",
+    "choices": [
+      "La Estrella",
+      "El Siglo",
+      "Crítica",
+      "La Prensa"
+    ]
+  },
+  {
+    "q": "Según las disposiciones sobre el uso de la bandera, ¿en cuál de estos lugares NO se debe usar la bandera como anuncio o propaganda?",
+    "a": "Clubes nocturnos y casas de diversión",
+    "choices": [
+      "Plazas públicas",
+      "Escuelas",
+      "Asambleas públicas",
+      "Clubes nocturnos y casas de diversión"
+    ]
+  },
+  {
+    "q": "¿A qué hora no debe estar izada la bandera según el temario?",
+    "a": "Después de las siete de la tarde (19:00)",
+    "choices": [
+      "Después de las siete de la tarde (19:00)",
+      "Solo fines de semana",
+      "Antes de las siete de la mañana",
+      "Todo el día"
+    ]
+  },
+  {
+    "q": "¿Quién escribió el juramento a la Bandera?",
+    "a": "Ernestina Sucre Tapia",
+    "choices": [
+      "Mireya Moscoso Rodríguez",
+      "Ricardo Miró",
+      "Ernestina Sucre Tapia",
+      "Manuel E. Amador"
+    ]
+  },
+  {
+    "q": "¿Qué fecha se declara como Día de los Símbolos de la Nación según Ley 2 de 2012?",
+    "a": "4 de noviembre",
+    "choices": [
+      "3 de noviembre",
+      "28 de noviembre",
+      "4 de diciembre",
+      "4 de noviembre"
+    ]
+  },
+  {
+    "q": "¿Cuál de las siguientes fechas es el 'Día de los Mártires' en Panamá?",
+    "a": "9 de enero",
+    "choices": [
+      "1 de enero",
+      "28 de noviembre",
+      "3 de noviembre",
+      "9 de enero"
+    ]
+  },
+  {
+    "q": "¿Cuál es un plato típico panameño mencionado en el temario?",
+    "a": "Sancocho",
+    "choices": [
+      "Pizza",
+      "Tacos",
+      "Sancocho",
+      "Sushi"
+    ]
+  },
+  {
+    "q": "¿Cuál es un baile típico panameño mencionado?",
+    "a": "El Tamborito",
+    "choices": [
+      "Tango",
+      "El Tamborito",
+      "Salsa",
+      "Flamenco"
+    ]
+  }
+]
